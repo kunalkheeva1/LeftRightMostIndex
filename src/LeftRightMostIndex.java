@@ -44,7 +44,7 @@ public class LeftRightMostIndex {
             else{
                 high = mid-1;
             }
-        }
+        }return pair;
 
 
     }
